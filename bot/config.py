@@ -10,13 +10,13 @@ class config:
 
 class BotCommands:
   Download = ['download', 'dl']
-  Authorize = ['auth', 'start', 'authorize']
+  Authorize = ['authorize', 'start', 'authorize']
   SetFolder = ['setfolder', 'setfl']
   Revoke = ['revoke']
-  Clone = ['copy', 'clone', 'salin']
-  Delete = ['delete', 'del', 'hapus']
-  EmptyTrash = ['emptytrash', 'clearbin']
-  Ytdl = ['ytdl', 'watch']
+  Clone = ['salin', 'clone']
+  Delete = ['hapus', 'delete']
+  EmptyTrash = ['clearbin', 'emptytrash']
+  Ytdl = ['watch', 'ytdl']
 
 class Messages:
     START_MSG = "**Hi there {}.**\n__I'm Google Drive Uploader Bot.You can use me to upload any file / video to Google Drive from direct link or Telegram Files.__\n__You can know more from /help.__"
