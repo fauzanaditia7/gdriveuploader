@@ -23,7 +23,8 @@
       "value": "999197022 939425014"
     },
     "SUPPORT_CHAT_LINK": {
-      "description": "Support Chat link in valid url format."
+      "description": "Support Chat link in valid url format.",
+      "required": false
     },
     "DOWNLOAD_DIRECTORY": {
       "description": "Custom path for downloads. Must end with a forward slash.",
