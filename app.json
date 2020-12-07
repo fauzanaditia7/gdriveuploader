@@ -11,15 +11,15 @@
     },
     "BOT_TOKEN": {
       "description": "Get it from @BotFather"
-      "required": true
+      "required": true,
     },
     "APP_ID": {
       "description": "Your API_ID, Get it from https://my.telegram.org/apps"
-      "required": true
+      "required": true,
     },
     "API_HASH": {
       "description": "Your API_HASH, Get it from https://my.telegram.org/apps"
-      "required": true
+      "required": true,
     },
     "SUDO_USERS": {
       "description": "List of sudo users ids, seperated by space.",
